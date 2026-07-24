@@ -2,8 +2,6 @@
 
 A tiny local system dashboard. Flask backend (using `psutil`) serves live CPU, memory, disk, network, and top-process stats to a single-page dashboard that auto-refreshes every 2 seconds.
 
-Part of a 5-week, 10-project open-source build series (Week 3, Friday project).
-
 ## Features
 
 - Overall + per-core CPU usage, load average
